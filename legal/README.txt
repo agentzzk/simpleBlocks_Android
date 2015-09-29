@@ -1,4 +1,4 @@
-- All graphics used in the Simple Tetris android game were under the free use license at the time of creating this game.
-- All screens of the game are custom-designed through a photo-editor app.
+- All graphics used in the Simple Blocks android game were under the free use license at the time of creating this game.
+- All screens of the game are custom-designed and orignal.
 - Fonts used throughout the game: Calibri, Amatic (SIL Open Font License).
 - For additional questions/concerns regarding legal issues, contact the developer: contact@zainzulfiqar.com
