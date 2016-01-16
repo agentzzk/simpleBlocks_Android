@@ -1,5 +1,5 @@
 # Simple Blocks
-Download the game from the Google Play Store: [Simple Blocks](https://play.google.com/store/apps/details?id=com.zainzulfiqar.simpleblocks&hl=en)
+Download the game for free from the Google Play Store: [Simple Blocks](https://play.google.com/store/apps/details?id=com.zainzulfiqar.simpleblocks&hl=en)
 
 - Legal information regarding my Android game Simple Blocks.
 - Open sourced: feel free to use/modify my core Java code related to game objects and design. Android app source-code available upon request (for security/safety reasons: I need to make sure the Android code is used as intended).
