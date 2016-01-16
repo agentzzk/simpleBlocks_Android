@@ -2,6 +2,8 @@
 - Download the game for free from the Google Play Store: [Simple Blocks](https://play.google.com/store/apps/details?id=com.zainzulfiqar.simpleblocks&hl=en)
 - Legal information regarding my Android game Simple Blocks.
 
+<img src = "http://zainzulfiqar.com/images/simpleBlocksScreens.png" width = "350px" />
+
 # Open-Source (yay!)
 ##### Simple Blocks is intended to be a game developed for educational purposes only. Helped to strengthen Java and Android skills.
 ##### Core Java design of the game can be found at the [tetrisSpace3.0](https://github.com/agentzzk/tetrisSpace3.0) repo.
